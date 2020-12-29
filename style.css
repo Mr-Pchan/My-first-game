@@ -1,0 +1,6 @@
+canvas {
+  border: solid 1px black;
+  display: flex;
+  position: relative;
+  margin: 0 auto;
+}
